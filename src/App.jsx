@@ -114,7 +114,6 @@ function App() {
               <a href="mailto:alex_2c@hotmail.fr" className="btn btn-primary">M'envoyer un mail</a>
               <a href="https://www.linkedin.com/in/alex-cattelin/" target="_blank" className="btn btn-outline">LinkedIn</a>
               <a href="Alex_Cattelin_Alternance.pdf" target="_blank" className="btn btn-outline">Mon CV</a>
-              <a href="https://github.com/halekss" target="_blank" className="btn btn-outline">Mon GitHub</a>
             </div>
           </div>
         </section>
